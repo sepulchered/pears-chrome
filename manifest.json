@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "PeARS Plugin",
+    "description": "PeARS plugin for web page analyzing",
+    "version": "0.1",
+    "page_action": {
+        "default_icon": "icons/pears-19.png",
+        "default_title": "PeARS"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
